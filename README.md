@@ -59,6 +59,7 @@ Evaluation includes:
 \sum_{n=1}^{\infty} \frac{1}{n^2} = \frac{\pi^2}{6}
 \int_{0}^{\infty} x^{s-1} e^{-x} dx = \Gamma(s)
 \begin{array}{cc} a & b \\ c & d \end{array}
+```
 
 ## 📊 Visualization
 A bar plot comparing average tokens per formula for each tokenizer is generated using Seaborn.
