@@ -65,16 +65,16 @@ Evaluation includes:
 A bar plot comparing average tokens per formula for each tokenizer is generated using Seaborn.
 
 
-##📜 License
+## 📜 License
 This project is under the MIT License.
 
 
-##🔗 Related
+## 🔗 Related
 Hugging Face Tokenizers Documentation
 LaTeX Formula Dataset
 
 
-##📌 Disclaimer
+## 📌 Disclaimer
 This project was developed as part of a personal learning journey in reinforcement learning.
 As such, it may contain experimental implementations, non-optimized code, or areas for improvement.
 Feedback, suggestions, and contributions are always welcome!
