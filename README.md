@@ -75,6 +75,6 @@ LaTeX Formula Dataset
 
 
 ## 📌 Disclaimer
-This project was developed as part of a personal learning journey in reinforcement learning.
+This project was developed as part of a personal learning journey in GenAI.
 As such, it may contain experimental implementations, non-optimized code, or areas for improvement.
 Feedback, suggestions, and contributions are always welcome!
