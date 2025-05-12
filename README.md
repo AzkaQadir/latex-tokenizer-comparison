@@ -16,9 +16,7 @@ Mathematical LaTeX expressions contain specialized syntax that challenges tradit
 ## 📦 Dataset
 
 - Source: [OleehyO/latex-formulas](https://huggingface.co/datasets/OleehyO/latex-formulas)
-- Subset: `cleaned_formulas`
-- Format: Raw LaTeX strings under the key `latex_formula`
-
+  
 ## 🔧 Methods
 
 1. **Data Cleaning**  
@@ -61,3 +59,18 @@ Evaluation includes:
 \sum_{n=1}^{\infty} \frac{1}{n^2} = \frac{\pi^2}{6}
 \int_{0}^{\infty} x^{s-1} e^{-x} dx = \Gamma(s)
 \begin{array}{cc} a & b \\ c & d \end{array}
+
+## 📊 Visualization
+A bar plot comparing average tokens per formula for each tokenizer is generated using Seaborn.
+
+##📜 License
+This project is under the MIT License.
+
+##🔗 Related
+Hugging Face Tokenizers Documentation
+LaTeX Formula Dataset
+
+##📌 Disclaimer
+This project was developed as part of a personal learning journey in reinforcement learning.
+As such, it may contain experimental implementations, non-optimized code, or areas for improvement.
+Feedback, suggestions, and contributions are always welcome!
